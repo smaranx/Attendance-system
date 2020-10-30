@@ -1,8 +1,8 @@
-###AI to detect students in the class for attendance.
-###Uses opencv to detect pattern of a human face which is recogniseable by a normal cell phone camera. 
-###Easy to maintain and update database.
+AI to detect students in the class for attendance.
+Uses opencv to detect pattern of a human face which is recogniseable by a normal cell phone camera. 
+Easy to maintain and update database.
 
-##Methodology
+Methodology
 
 1.Start this project from firstpage.py
 2.Create dataset by clicking create dataset button.
