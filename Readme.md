@@ -2,11 +2,11 @@ AI to detect students in the class for attendance.
 Uses opencv to detect pattern of a human face which is recogniseable by a normal cell phone camera. 
 Easy to maintain and update database.
 
-Techstack
+### Techstack
 
-1.Python
+* Python
 
-Libraries
+### Libraries
 
 1. Tkinter
 2. Firebase
