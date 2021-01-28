@@ -6,12 +6,10 @@ Techstack
 
 1.Python
 
-Libraries :
+Libraries
 
-1.Tkinter
-2.Firebase
-3.Pillow
-4.xlwrite
-5.Opencv3.4
-
-     
+1. Tkinter
+2. Firebase
+3. Pillow
+4. xlwrite
+5. OpenCV
