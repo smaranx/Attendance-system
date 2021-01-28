@@ -2,14 +2,16 @@ AI to detect students in the class for attendance.
 Uses opencv to detect pattern of a human face which is recogniseable by a normal cell phone camera. 
 Easy to maintain and update database.
 
-Methodology
+Techstack
 
-1.Start this project from firstpage.py
-2.Create dataset by clicking create dataset button.
-3.Train this by clicking dataset button
-4.click on recognize + attendance button to start recognizing and marking attendance.
-5.Click on Attendance Sheet to view current date attendance sheet.
+1.Python
 
-1. Download libraries accordingly by opening python file : tkinter,firebase,numpy,pillow,xlwrite,opencv3.4
+Libraries :
 
-     2. Run it using python 3.6
+1.Tkinter
+2.Firebase
+3.Pillow
+4.xlwrite
+5.Opencv3.4
+
+     
