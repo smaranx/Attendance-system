@@ -1,6 +1,7 @@
-AI to detect students in the class for attendance.
-Uses opencv to detect pattern of a human face which is recogniseable by a normal cell phone camera. 
-Easy to maintain and update database.
+## Attendance system 
+
+An AI that uses opencv to detect pattern of a human face which is then trained through which it recognize students in the class by a normal cell phone camera and mark their attendance 
+Easy to maintain and update attendance.
 
 ### Techstack
 
